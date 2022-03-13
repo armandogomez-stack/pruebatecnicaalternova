@@ -1,0 +1,30 @@
+ [
+        {
+            "id": 1,
+            "name": "redbull",
+            "unit_price": 5000,
+            "stock": 5,
+            "img": "https://th.bing.com/th/id/R.1ec94e3d7c8ae5ec450f05884fbdfa40?rik=owQRzIGni%2fxQWw&pid=ImgRaw&r=0"
+        },
+        {
+            "id":2,
+            "name": "rice",
+            "unit_price": 2000,
+            "stock": 0,
+            "img": "https://th.bing.com/th/id/OIP.axExroEiBSneZqppyV05XAHaGB?pid=ImgDet&rs=1"
+        },
+        {
+            "id":3,
+            "name": "papitas de limón margarita",
+            "unit_price": 1500,
+            "stock": 1,
+            "img": "https://metrocolombiafood.vteximg.com.br/arquivos/ids/278595-750-750/7703133088503.jpg?v=637310528542700000"
+        },
+        {
+            "id":4,
+            "name": "meat / pound",
+            "unit_price": 500,
+            "stock": 8,
+            "img": "https://th.bing.com/th/id/OIP.wyLq5oR9OMXgyYUNw04WOAHaD4?pid=ImgDet&rs=1"
+        }
+]
